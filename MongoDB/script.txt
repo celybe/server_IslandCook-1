@@ -1,9 +1,10 @@
 use island_cook
 
 db.createCollection('recipes')
+db.recipes.insertMany(//Array de obj de insert.json)
 
 //Ejemplo body insert recipes
-{
+{ 
     "name":"string",
     "ingredients":[
         {
@@ -22,4 +23,24 @@ db.createCollection('recipes')
     "tags": ["string","string"]
 }
 
-db.recipes.insertMany(//objetos en el archivo inserts)
+//Ejemplo de respuesta de Mongo
+{ 
+    "_id" : ObjectId("61fd24326141d419e2e627ed"),
+    "name":"string",
+    "ingredients":[
+        {
+            "name":"string",
+            "amount": "string"
+        },
+        {
+            "name":"string",
+            "amount": "string"
+        }
+    ],
+    "steps":["string","string","string"],
+    "picture_url":"string",
+    "difficulty": "easy/medium/hard",
+    "author":"string",
+    "tags": ["string","string"]
+}
+
