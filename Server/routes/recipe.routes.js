@@ -15,7 +15,7 @@ recipeRoute.route('/recipe').post((req, res, next) => {
   })
 });
 
-// Get RecipiesByTad
+// Get Recipe
 recipeRoute.route('/recipe').get((req, res) => {
     Recipe.find((error, data) => {
     if (error) {
@@ -39,7 +39,7 @@ recipeRoute.route('/recipe/tag/:tags').get((req, res) => {
 
 
 
-// Get Recipe
+// Get RecipiesByTag
 recipeRoute.route('/recipe/:id').get((req, res) => {
     Recipe.findById(req.params.id, (error, data) => {
     if (error) {
