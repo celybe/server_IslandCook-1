@@ -1,12 +1,12 @@
 const express = require('express');
 const app = express();
 
-const bookRoute = express.Router();
-let Book = require('../database/db');
+const recipeRoute = express.Router();
+let Recipe = require('../database/db');
 
 // Add Recipe
-bookRoute.route('/add-book').post((req, res, next) => {
-    Book.create(req.body, (error, data) => {
+recipeRoute.route('/recipe').post((req, res, next) => {
+    Recipe.create(req.body, (error, data) => {
     if (error) {
       return next(error)
     } else {
@@ -15,9 +15,9 @@ bookRoute.route('/add-book').post((req, res, next) => {
   })
 });
 
-// Get All Recipies
-bookRoute.route('/').get((req, res) => {
-    Book.find((error, data) => {
+// Get RecipiesByTad
+recipeRoute.route('/recipe').get((req, res) => {
+    Recipe.find((error, data) => {
     if (error) {
       return next(error)
     } else {
@@ -26,9 +26,22 @@ bookRoute.route('/').get((req, res) => {
   })
 })
 
+// Get RecipiesById
+recipeRoute.route('/recipe/tag/:tags').get((req, res) => {
+    Recipe.findById(req.params.tag, (error, data) => {
+    if (error) {
+      return next(error)
+    } else {
+      res.json(data)
+    }
+  })
+})
+
+
+
 // Get Recipe
-bookRoute.route('/read-book/:id').get((req, res) => {
-    Book.findById(req.params.id, (error, data) => {
+recipeRoute.route('/recipe/:id').get((req, res) => {
+    Recipe.findById(req.params.id, (error, data) => {
     if (error) {
       return next(error)
     } else {
@@ -39,22 +52,22 @@ bookRoute.route('/read-book/:id').get((req, res) => {
 
 
 // Update Recipe
-bookRoute.route('/update-book/:id').put((req, res, next) => {
-    Book.findByIdAndUpdate(req.params.id, {
+recipeRoute.route('/recipe/:id').put((req, res, next) => {
+    Recipe.findByIdAndUpdate(req.params.id, {
     $set: req.body
   }, (error, data) => {
     if (error) {
       return next(error);
     } else {
       res.json(data)
-      console.log('Book updated successfully!')
+      console.log('Recipe updated successfully!')
     }
   })
 })
 
 // Delete Recipe
-bookRoute.route('/delete-book/:id').delete((req, res, next) => {
-    Book.findByIdAndRemove(req.params.id, (error, data) => {
+recipeRoute.route('/recipe/:id').delete((req, res, next) => {
+    Recipe.findByIdAndRemove(req.params.id, (error, data) => {
     if (error) {
       return next(error);
     } else {
@@ -65,4 +78,4 @@ bookRoute.route('/delete-book/:id').delete((req, res, next) => {
   })
 })
 
-module.exports = RecipeRoute;
+module.exports = recipeRoute;
