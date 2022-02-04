@@ -4,7 +4,6 @@ db.createCollection('recipes')
 
 //Ejemplo body insert recipes
 {
-    "id":0,
     "name":"string",
     "ingredients":[
         {
@@ -17,11 +16,8 @@ db.createCollection('recipes')
         }
     ],
     "steps":["string","string","string"],
-    "country": "string",
     "picture_url":"string",
     "difficulty": "easy/medium/hard",
-    "vegan":true,
-    "gluten_free":false,
     "author":"string",
     "tags": ["string","string"]
 }

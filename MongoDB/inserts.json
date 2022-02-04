@@ -1,58 +1,82 @@
 [
-    {
-    "id":0,
-    "name":"Death By Chocolate Brownie Skillet",
+  {
+    "name": "Death By Chocolate Brownie Skillet",
+    "ingredients": [
+      {
+        "name": "Unsalted butter",
+        "amount": "Half Stick"
+      },
+      {
+        "name": "Chopped chocolate",
+        "amount": "85g"
+      },
+      {
+        "name": "sugar",
+        "amount": "100g"
+      },
+      {
+        "name": "Large egg",
+        "amount": "1"
+      },
+      {
+        "name": "Vanilla extract",
+        "amount": "1/2 teaspoon"
+      },
+      {
+        "name": "Flour",
+        "amount": "40g"
+      },
+      {
+        "name": "Salt",
+        "amount": "1/2 teaspoon"
+      },
+      {
+        "name": "Chocolate chips",
+        "amount": "40g"
+      },
+      {
+        "name": "Cocoa nibs",
+        "amount": "2 teaspoons"
+      }
+    ],
+    "steps": [
+      "Preheat the oven to 350°F (180°C). Lightly grease a 6½-inch skillet with butter.",
+      "Fill a medium saucepan with 1 inch (2.54 cm) of water and bring to a boil over high heat.",
+      "In a medium heat-safe bowl, combine the butter and chopped chocolate. Place on top of the pot of boiling water. Use a rubber spatula to stir until completely melted, about 5 minutes. Remove the bowl from the heat and let the melted chocolate cool slightly, about 5 minutes.",
+      "Add the sugar to the cooled chocolate mixture and whisk to combine. Add the egg and vanilla and continue whisking until smooth and homogenous.",
+      "Sift in the flour and salt, then add the mini chocolate chips. Use the rubber spatula to gently fold until the flour is just incorporated.",
+      "Pour the batter into the prepared skillet and sprinkle the cocoa nibs evenly over the top.",
+      "Bake until the brownie is mostly set in the center and with little resistance when you press lightly on the top, 12–15 minutes. Remove from the oven and let cool slightly, about 10 minutes.",
+      "Just before serving, scoop your favorite ice cream on top and drizzle with hot fudge sauce."
+    ],
+    "picture_url": "https://img.buzzfeed.com/video-api-prod/assets/45bd35459ac444cab6e53b08af15dc8c/Skilletcookie.jpg",
+    "difficulty": "medium",
+    "author": "MartaMagui",
+    "tags": ["Dessert", "Chocolate", "Sweet"]
+  },
+  {
+    "name":"3-ingredient Teriyaki Chicken",
     "ingredients":[
         {
-            "name":"Unsalted butter",
-            "amount": "Half Stick"
+            "name":"Chicken thighs sliced into chunks",
+            "amount": "910g"
         },
         {
-            "name":"Chopped chocolate",
-            "amount": "85g"
-        },{
-            "name":"sugar",
-            "amount": "100g"
+            "name":"Soy sauce",
+            "amount": "1 cup"
         },
         {
-            "name":"Large egg",
-            "amount": "1"
-        },{
-            "name":"Vanilla extract",
-            "amount": "1/2 teaspoon"
-        },
-        {
-            "name":"Flour",
-            "amount": "40g"
-        },
-        {
-            "name":"Salt",
-            "amount": "1/2 teaspoon"
-        },
-        {
-            "name":"Chocolate chips",
-            "amount": "40g"
-        },
-        {
-            "name":"Cocoa nibs",
-            "amount": "2 teaspoons"
+            "name":"Brown suga",
+            "amount": "110g"
         }
     ],
-    "steps":[
-        "Preheat the oven to 350°F (180°C). Lightly grease a 6½-inch skillet with butter.",
-        "Fill a medium saucepan with 1 inch (2.54 cm) of water and bring to a boil over high heat.",
-        "In a medium heat-safe bowl, combine the butter and chopped chocolate. Place on top of the pot of boiling water. Use a rubber spatula to stir until completely melted, about 5 minutes. Remove the bowl from the heat and let the melted chocolate cool slightly, about 5 minutes.",
-        "Add the sugar to the cooled chocolate mixture and whisk to combine. Add the egg and vanilla and continue whisking until smooth and homogenous.",
-        "Sift in the flour and salt, then add the mini chocolate chips. Use the rubber spatula to gently fold until the flour is just incorporated.",
-        "Pour the batter into the prepared skillet and sprinkle the cocoa nibs evenly over the top.",
-        "Bake until the brownie is mostly set in the center and with little resistance when you press lightly on the top, 12–15 minutes. Remove from the oven and let cool slightly, about 10 minutes.",
-        "Just before serving, scoop your favorite ice cream on top and drizzle with hot fudge sauce."],
-    "country": "USA",
-    "picture_url":"https://img.buzzfeed.com/video-api-prod/assets/45bd35459ac444cab6e53b08af15dc8c/Skilletcookie.jpg",
-    "difficulty": "medium",
-    "vegan":false,
-    "gluten_free":false,
+    "steps":["Sear the chicken thighs evenly in a pan, then flip.",
+        "Add the soy sauce and brown sugar, stirring and bringing to a boil.",
+        "Stir until the sauce has reduced and evenly glazes the chicken.",
+        "Serve with rice, if desired!"],
+    "picture_url":"https://img.buzzfeed.com/thumbnailer-prod-us-east-1/1d47125afffa461a9711758f632306b8/BFV12484_3-IngredientDinners-FB1080SQ.jpg",
+    "difficulty": "easy",
     "author":"MartaMagui",
-    "tags": ["Dessert","Chocolate","Sweet"]
-}
+    "tags": ["Japanese","Chicken"]
+  }
 ]
