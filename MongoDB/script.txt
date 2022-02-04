@@ -8,11 +8,11 @@ db.createCollection('recipes')
     "name":"string",
     "ingredients":[
         {
-            "name":"string"
+            "name":"string",
             "amount": "string"
         },
         {
-            "name":"string"
+            "name":"string",
             "amount": "string"
         }
     ],
@@ -25,6 +25,5 @@ db.createCollection('recipes')
     "author":"string",
     "tags": ["string","string"]
 }
-db.recipes.insertMany([
-    {}
-])
+
+db.recipes.insertMany(//objetos en el archivo inserts)
