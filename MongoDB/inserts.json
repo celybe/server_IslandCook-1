@@ -135,5 +135,47 @@
     "difficulty": "medium",
     "author":"MartaMagui",
     "tags": ["Potatoes","Cheese"]
+},
+{
+  "id":"asdasAASDvoasudvasobASTVAUSGD87QW0WQ9EQ80",
+  "name":"Authentic carbonara",
+  "ingredients":[
+      {
+          "name":"Olive oil",
+          "amount": "2 tablespoons"
+      },
+      {
+          "name":"Water",
+          "amount": "1'5/2 liters"
+      },
+      {
+          "name":"Pepper",
+          "amount": "3 teaspoons"
+      },
+      {
+          "name":"Pasta",
+          "amount": "About 150 gr per person"
+      },
+      {
+          "name":"Guanciale",
+          "amount": "About 400 gr"
+      },
+      {
+          "name":"Pecorinno Romano",
+          "amount": "Wedge to 4 people"
+      }
+  ],
+  "steps":["Bring the water to boil and put in some oil and the pasta. Preheat the pan wit a tiny bit of olive oil",
+    "Cut the Guanciale in thin slices and put it into the pan, let it fry.",
+    "While cooking the pasta and the guanciale, put the egg yolks and the grated Pecorinno in a bowl and mix it with a little beat of boiling water, it needs to be a bit liquid",
+    "Once the pasta and the guanciale are cooked, remove the pan from the heat, put the pasta into the pan and mix it with the guanciale",
+    "Put the eggs and cheese mix into the pan with a tiny bit of boiling water and mix, it needs to be easy to mix.",
+    "To serve it, grate some more Pecorino and a bit of pepper and.... ¡LET'S EAT!"
+
+  ],
+  "picture_url":"https://pin.it/6WrMl5i",
+  "difficulty": "easy",
+  "author":"XaviGT10",
+  "tags": ["PotPastaatoes","Cheese"]
 }
 ]
