@@ -1,3 +1,4 @@
+const { response } = require("express");
 let express = require("express"),
   path = require("path"),
   mongoose = require("mongoose"),
@@ -41,7 +42,7 @@ app.listen(port, () => {
 
 // 404 Handler
 app.use((req, res, next) => {
-  next(createError(404));
+  response.status(404).end();
 });
 
 // Base Route
