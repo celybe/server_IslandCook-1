@@ -1,6 +1,6 @@
 [
   {
-    "id":"asdasASGyvuvasdvoasudvasobASTVAUSGD87QW0WQ9EQ80",
+    "id": "asdasASGyvuvasdvoasudvasobASTVAUSGD87QW0WQ9EQ80",
     "name": "Death By Chocolate Brownie Skillet",
     "ingredients": [
       {
@@ -56,163 +56,239 @@
     "tags": ["Dessert", "Chocolate", "Sweet"]
   },
   {
-    "id":"asdasASGyvuvasdvoasudvasobASTVAUSGD87QW0WQ5EQ80",
-    "name":"3-ingredient Teriyaki Chicken",
-    "ingredients":[
-        {
-            "name":"Chicken thighs sliced into chunks",
-            "amount": "910g"
-        },
-        {
-            "name":"Soy sauce",
-            "amount": "1 cup"
-        },
-        {
-            "name":"Brown suga",
-            "amount": "110g"
-        }
+    "id": "asdasASGyvuvasdvoasudvasobASTVAUSGD87QW0WQ5EQ80",
+    "name": "3-ingredient Teriyaki Chicken",
+    "ingredients": [
+      {
+        "name": "Chicken thighs sliced into chunks",
+        "amount": "910g"
+      },
+      {
+        "name": "Soy sauce",
+        "amount": "1 cup"
+      },
+      {
+        "name": "Brown suga",
+        "amount": "110g"
+      }
     ],
-    "steps":["Sear the chicken thighs evenly in a pan, then flip.",
-        "Add the soy sauce and brown sugar, stirring and bringing to a boil.",
-        "Stir until the sauce has reduced and evenly glazes the chicken.",
-        "Serve with rice, if desired!"],
-    "picture_url":"https://img.buzzfeed.com/thumbnailer-prod-us-east-1/1d47125afffa461a9711758f632306b8/BFV12484_3-IngredientDinners-FB1080SQ.jpg",
+    "steps": [
+      "Sear the chicken thighs evenly in a pan, then flip.",
+      "Add the soy sauce and brown sugar, stirring and bringing to a boil.",
+      "Stir until the sauce has reduced and evenly glazes the chicken.",
+      "Serve with rice, if desired!"
+    ],
+    "picture_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/1d47125afffa461a9711758f632306b8/BFV12484_3-IngredientDinners-FB1080SQ.jpg",
     "difficulty": "easy",
-    "author":"MartaMagui",
-    "tags": ["Japanese","Chicken"]
+    "author": "MartaMagui",
+    "tags": ["Japanese", "Chicken"]
   },
   {
-    "id":"asdasAASDvoasudvasobASTVAUSGD87QW0WQ9EQ80",
-    "name":"Scalloped Potatoes",
-    "ingredients":[
-        {
-            "name":"Butter",
-            "amount": "1 TBS"
-        },
-        {
-            "name":"Garlic",
-            "amount": "2 Cloves"
-        },
-        {
-            "name":"Flour",
-            "amount": "1 TBS"
-        },
-        {
-            "name":"Milk",
-            "amount": "240 ml"
-        },
-        {
-            "name":"Salt",
-            "amount": "1 TBS"
-        },
-        {
-            "name":"Pepper",
-            "amount": "1/2 teaspoon"
-        },
-        {
-            "name":"Yukon potatoes, peeled",
-            "amount": "3"
-        },
-        {
-            "name":"Grated parmesan cheese",
-            "amount": "2 TBS"
-        },
-        {
-            "name":"Parsley",
-            "amount": "Up to you"
-        }
-    ],
-    "steps":["Preheat oven to 350°F (180°C).",
-        "In a small pot, melt the butter and fry the garlic until it’s just starting to brown. Add the flour, salt and pepper. whisk until there are no lumps.",
-        "Slowly drizzle in the milk while constantly whisking to make sure the mixture is smooth.",
-        "Bring to a boil, then remove from heat.",
-        "Slice the potatoes into about ⅛-inch (3 mm) thick slices, then fan them out in a small baking dish.",
-        "Pour the sauce on top of the potatoes, then sprinkle with parmesan.",
-        "Bake for about 1 hour, until the top is bubbly and golden brown.",
-        "Sprinkle chopped parsley on top, then serve."
-    ],
-    "picture_url":"https://img.buzzfeed.com/thumbnailer-prod-us-east-1/05a07209a87849729d88fdc9275e98b9/BFV15870_SteakDinnerForTwo2.jpg",
-    "difficulty": "medium",
-    "author":"MartaMagui",
-    "tags": ["Potatoes","Cheese"]
-},
-{
-  "id":"7bEkkV2yyY",
-  "name":"Authentic carbonara",
-  "ingredients":[
+    "id": "asdasAASDvoasudvasobASTVAUSGD87QW0WQ9EQ80",
+    "name": "Scalloped Potatoes",
+    "ingredients": [
       {
-          "name":"Olive oil",
-          "amount": "2 tablespoons"
+        "name": "Butter",
+        "amount": "1 TBS"
       },
       {
-          "name":"Water",
-          "amount": "1'5/2 liters"
+        "name": "Garlic",
+        "amount": "2 Cloves"
       },
       {
-          "name":"Pepper",
-          "amount": "3 teaspoons"
+        "name": "Flour",
+        "amount": "1 TBS"
       },
       {
-          "name":"Pasta",
-          "amount": "About 150 gr per person"
+        "name": "Milk",
+        "amount": "240 ml"
       },
       {
-          "name":"Guanciale",
-          "amount": "About 400 gr"
+        "name": "Salt",
+        "amount": "1 TBS"
       },
       {
-          "name":"Pecorinno Romano",
-          "amount": "Wedge to 4 people"
+        "name": "Pepper",
+        "amount": "1/2 teaspoon"
+      },
+      {
+        "name": "Yukon potatoes, peeled",
+        "amount": "3"
+      },
+      {
+        "name": "Grated parmesan cheese",
+        "amount": "2 TBS"
+      },
+      {
+        "name": "Parsley",
+        "amount": "Up to you"
       }
-  ],
-  "steps":["Bring the water to boil and put in some oil and the pasta. Preheat a non-sticking pan wit a tiny bit of olive oil",
-    "Cut the Guanciale in thin slices and put it into the pan, let it fry.",
-    "While cooking the pasta and the guanciale, put the egg yolks and the grated Pecorinno in a bowl and mix it with a little beat of boiling water, it needs to be a bit liquid",
-    "Once the pasta and the guanciale are cooked, remove the pan from the heat, put the pasta into the pan and mix it with the guanciale",
-    "Put the eggs and cheese mix into the pan with a tiny bit of boiling water and mix, it needs to be easy to mix.",
-    "To serve it, grate some more Pecorino and a bit of pepper and.... ¡LET'S EAT!"
-
-  ],
-  "picture_url":"https://pin.it/6WrMl5i",
-  "difficulty": "easy",
-  "author":"XaviGT10",
-  "tags": ["Pasta","Cheese"]
-},
+    ],
+    "steps": [
+      "Preheat oven to 350°F (180°C).",
+      "In a small pot, melt the butter and fry the garlic until it’s just starting to brown. Add the flour, salt and pepper. whisk until there are no lumps.",
+      "Slowly drizzle in the milk while constantly whisking to make sure the mixture is smooth.",
+      "Bring to a boil, then remove from heat.",
+      "Slice the potatoes into about ⅛-inch (3 mm) thick slices, then fan them out in a small baking dish.",
+      "Pour the sauce on top of the potatoes, then sprinkle with parmesan.",
+      "Bake for about 1 hour, until the top is bubbly and golden brown.",
+      "Sprinkle chopped parsley on top, then serve."
+    ],
+    "picture_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/05a07209a87849729d88fdc9275e98b9/BFV15870_SteakDinnerForTwo2.jpg",
+    "difficulty": "medium",
+    "author": "MartaMagui",
+    "tags": ["Potatoes", "Cheese"]
+  },
   {
-    "id":"7bEkkV2adasdasdyyY",
-    "name":"Good Old Fashioned Pancakes",
-    "ingredients":[
+    "id": "7bEkkV2yyY",
+    "name": "Authentic carbonara",
+    "ingredients": [
       {
-        "name":"Flour",
+        "name": "Olive oil",
+        "amount": "2 tablespoons"
+      },
+      {
+        "name": "Water",
+        "amount": "1'5/2 liters"
+      },
+      {
+        "name": "Pepper",
+        "amount": "3 teaspoons"
+      },
+      {
+        "name": "Pasta",
+        "amount": "About 150 gr per person"
+      },
+      {
+        "name": "Guanciale",
+        "amount": "About 400 gr"
+      },
+      {
+        "name": "Pecorinno Romano",
+        "amount": "Wedge to 4 people"
+      }
+    ],
+    "steps": [
+      "Bring the water to boil and put in some oil and the pasta. Preheat a non-sticking pan wit a tiny bit of olive oil",
+      "Cut the Guanciale in thin slices and put it into the pan, let it fry.",
+      "While cooking the pasta and the guanciale, put the egg yolks and the grated Pecorinno in a bowl and mix it with a little beat of boiling water, it needs to be a bit liquid",
+      "Once the pasta and the guanciale are cooked, remove the pan from the heat, put the pasta into the pan and mix it with the guanciale",
+      "Put the eggs and cheese mix into the pan with a tiny bit of boiling water and mix, it needs to be easy to mix.",
+      "To serve it, grate some more Pecorino and a bit of pepper and.... ¡LET'S EAT!"
+    ],
+    "picture_url": "https://pin.it/6WrMl5i",
+    "difficulty": "easy",
+    "author": "XaviGT10",
+    "tags": ["Pasta", "Cheese"]
+  },
+  {
+    "id": "7bEkkV2adasdasdyyY",
+    "name": "Good Old Fashioned Pancakes",
+    "ingredients": [
+      {
+        "name": "Flour",
         "amount": "1 1/2 cups"
       },
       {
-        "name":"Baking Powder",
+        "name": "Baking Powder",
         "amount": "3'1/2 teaspoons"
       },
       {
-        "name":"Salt",
+        "name": "Salt",
         "amount": "1/4 teaspoons"
       },
       {
-        "name":"Sugar",
+        "name": "Sugar",
         "amount": "1 tablespoon"
       },
       {
-        "name":"Milk",
+        "name": "Milk",
         "amount": "1 1/4"
       },
       {
-        "name":"Butter",
+        "name": "Butter",
         "amount": "3 tablespoons"
       }
     ],
-    "steps":["In a large bowl, sift together the flour, baking powder, salt and sugar. Make a well in the center and pour in the milk, egg and melted butter; mix until smooth.",
+    "steps": [
+      "In a large bowl, sift together the flour, baking powder, salt and sugar. Make a well in the center and pour in the milk, egg and melted butter; mix until smooth.",
       "Heat a lightly oiled griddle or frying pan over medium-high heat. Pour or scoop the batter onto the griddle, using approximately 1/4 cup for each pancake. Brown on both sides and serve hot."
     ],
-    "picture_url":"https://imagesvc.meredithcorp.io/v3/mm/image?url=https://static.onecms.io/wp-content/uploads/sites/43/2020/05/07/Good-Old-Fashioned-Pancakes-2000.jpgv",
+    "picture_url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https://static.onecms.io/wp-content/uploads/sites/43/2020/05/07/Good-Old-Fashioned-Pancakes-2000.jpgv",
     "difficulty": "easy",
-    "author":"Aracely Berrocal",
-    "tags": ["Dessert","Breakfast"]
+    "author": "Aracely Berrocal",
+    "tags": ["Dessert", "Breakfast"]
+  },
+  {
+    "id": "uCR7gaTtcM",
+    "name": "Chicken Parm Lasagna",
+    "ingredients": [
+      {
+        "name": "Chicken breasts",
+        "amount": "3 u."
+      },
+      {
+        "name": "Salt",
+        "amount": "1 pinch"
+      },
+      {
+        "name": "Pepper",
+        "amount": "1 pinch"
+      },
+      {
+        "name": "Flour",
+        "amount": "1 cup"
+      },
+      {
+        "name": "Eggs",
+        "amount": "5 u."
+      },
+      {
+        "name": "Eggs",
+        "amount": "2 cups"
+      },
+      {
+        "name": "Bread crumbs",
+        "amount": "5 u."
+      },
+      {
+        "name": "Olive oil",
+        "amount": "1tbs"
+      },
+      {
+        "name": "Ricotta cheese",
+        "amount": "2 cups"
+      },
+      {
+        "name": "Marinara sauce",
+        "amount": "680g"
+      },
+      {
+        "name": "Lasagna noodles",
+        "amount": "8u."
+      },
+      {
+        "name": "Mozzarella cheese",
+        "amount": "150g"
+      },
+      {
+        "name": "Parmesan cheese",
+        "amount": "160g"
+      }
+    ],
+    "steps": [
+      "Cut chicken breasts in half (pound thin if necessary) and season with salt and pepper.",
+      "Add the flour, 4 eggs, and bread crumbs to 3 separate shallow dishes. Beat the eggs. Coat the chicken in the flour, then the eggs, and finally in the bread crumbs.",
+      "Heat the vegetable oil in a cast iron skillet over medium heat. Fry the chicken on both sides until golden brown, about 4 minutes on each side. Let drain on paper towels.",
+      "In a medium bowl, combine the ricotta cheese and the remaining egg.",
+      "Preheat the oven to 350°F (180°C).",
+      "Spread about ⅓ of the marinara sauce over the bottom of a casserole dish. Top with 4 lasagna noodles, ½ of the ricotta mixture, and 3 chicken cutlets. Sprinkle with ½ cup of mozzarella and ½ cup of Parmesan cheese. Repeat to make another layer, then finish with the remaining sauce and mozzarella and Parmesan cheeses.",
+      "Cover with foil and bake for 45-60 minutes, uncovering the lasagna for the last 10 minutes of baking.",
+      "Serve with a sprinkle of fresh basil."
+    ],
+    "picture_url": "https://img.buzzfeed.com/video-api-prod/assets/0ea70bbbff66482f93f6adec328f0450/BFV14079_ChickenParmLasagna-ThumbTextless1080.jpg",
+    "difficulty": "medium",
+    "author": "MartaMagui",
+    "tags": ["Pasta", "Lunch", "Dinner", "Cheese"]
   }
 ]
