@@ -5,7 +5,6 @@ db.recipes.insertMany(//Array de obj de insert.json)
 
 //Ejemplo body insert recipes
 { 
-    "id":"string",
     "name":"string",
     "ingredients":[
         {
@@ -27,7 +26,6 @@ db.recipes.insertMany(//Array de obj de insert.json)
 //Ejemplo de respuesta de Mongo
 { 
     "_id" : ObjectId("61fd24326141d419e2e627ed"),
-    "id":"string",
     "name":"string",
     "ingredients":[
         {
