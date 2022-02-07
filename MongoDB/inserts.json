@@ -53,7 +53,11 @@
     "picture_url": "https://img.buzzfeed.com/video-api-prod/assets/45bd35459ac444cab6e53b08af15dc8c/Skilletcookie.jpg",
     "difficulty": "medium",
     "author": "MartaMagui",
-    "tags": ["Dessert", "Chocolate", "Sweet"]
+    "tags": [
+      "Dessert",
+      "Chocolate",
+      "Sweet"
+    ]
   },
   {
     "id": "asdasASGyvuvasdvoasudvasobASTVAUSGD87QW0WQ5EQ80",
@@ -81,7 +85,10 @@
     "picture_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/1d47125afffa461a9711758f632306b8/BFV12484_3-IngredientDinners-FB1080SQ.jpg",
     "difficulty": "easy",
     "author": "MartaMagui",
-    "tags": ["Japanese", "Chicken"]
+    "tags": [
+      "Japanese",
+      "Chicken"
+    ]
   },
   {
     "id": "asdasAASDvoasudvasobASTVAUSGD87QW0WQ9EQ80",
@@ -137,7 +144,10 @@
     "picture_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/05a07209a87849729d88fdc9275e98b9/BFV15870_SteakDinnerForTwo2.jpg",
     "difficulty": "medium",
     "author": "MartaMagui",
-    "tags": ["Potatoes", "Cheese"]
+    "tags": [
+      "Potatoes",
+      "Cheese"
+    ]
   },
   {
     "id": "7bEkkV2yyY",
@@ -179,7 +189,10 @@
     "picture_url": "https://pin.it/6WrMl5i",
     "difficulty": "easy",
     "author": "XaviGT10",
-    "tags": ["Pasta", "Cheese"]
+    "tags": [
+      "Pasta",
+      "Cheese"
+    ]
   },
   {
     "id": "7bEkkV2adasdasdyyY",
@@ -217,7 +230,10 @@
     "picture_url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https://static.onecms.io/wp-content/uploads/sites/43/2020/05/07/Good-Old-Fashioned-Pancakes-2000.jpgv",
     "difficulty": "easy",
     "author": "Aracely Berrocal",
-    "tags": ["Dessert", "Breakfast"]
+    "tags": [
+      "Dessert",
+      "Breakfast"
+    ]
   },
   {
     "id": "uCR7gaTtcM",
@@ -289,62 +305,68 @@
     "picture_url": "https://img.buzzfeed.com/video-api-prod/assets/0ea70bbbff66482f93f6adec328f0450/BFV14079_ChickenParmLasagna-ThumbTextless1080.jpg",
     "difficulty": "medium",
     "author": "MartaMagui",
-    "tags": ["Pasta", "Lunch", "Dinner", "Cheese"]
+    "tags": [
+      "Pasta",
+      "Lunch",
+      "Dinner",
+      "Cheese"
+    ]
   },
   {
-    "id":"SZWcf3egWQ",
-    "name":"Astonishing homemade Burguer",
-    "ingredients":[
+    "id": "SZWcf3egWQ",
+    "name": "Astonishing homemade Burguer",
+    "ingredients": [
       {
-        "name":"Minced beef meat",
+        "name": "Minced beef meat",
         "amount": "1 kg"
       },
       {
-        "name":"Onion",
+        "name": "Onion",
         "amount": "1"
       },
       {
-        "name":"Pepper",
+        "name": "Pepper",
         "amount": "3 teaspoons"
       },
       {
-        "name":"Brown Sugar",
+        "name": "Brown Sugar",
         "amount": "4 to 5 tablespoons"
       },
       {
-        "name":"Balsamyc Modena Vinegar",
+        "name": "Balsamyc Modena Vinegar",
         "amount": "About 5 tablespoons"
       },
       {
-        "name":"Olive oil",
+        "name": "Olive oil",
         "amount": "2 tablespoons"
       },
       {
-        "name":"Sea Salt",
+        "name": "Sea Salt",
         "amount": "1 tablespoon"
       },
       {
-        "name":"Eggs",
+        "name": "Eggs",
         "amount": "1"
       },
       {
-        "name":"Thyme",
+        "name": "Thyme",
         "amount": "1 teaspoon"
       },
       {
-        "name":"Dill",
+        "name": "Dill",
         "amount": "1 teaspoon"
       },
       {
-        "name":"Bacon",
+        "name": "Bacon",
         "amount": "3 slices per burguer"
       },
       {
-        "name":"Goat cheese",
+        "name": "Goat cheese",
         "amount": "1 slice per burguer"
       }
     ],
-    "steps":["Preheat a non sticking pan with the olive oil while choping the onion.",
+    "steps": [
+      "Preheat a non sticking pan with the olive oil while choping the onion.",
       "Put the onion gently and nicely in the pan and add some salt. Stir until golden brown.",
       "When brown, put the brown sugar in, cook until poached and then add the vinegar. Let the vinegar evaporate.",
       "Meanwhile put the meat, the pepper, the salt, the dill and the thyme in a bowl and add the onions when they have lost a bit of heat.",
@@ -353,204 +375,300 @@
       "Preheat another pan and cook the bacon until golden",
       "When it is all nicely cooked, place the burguer on the bread and the bacon above it, you can add some tomatoe, cheese or a lettuce leaf. Â¡ENJOY!"
     ],
-    "picture_url":"https://pin.it/51ZP6Z6",
+    "picture_url": "https://pin.it/51ZP6Z6",
     "difficulty": "medium",
-    "author":"XaviGT10",
-    "tags": ["Burguer","Cheese", "Fast-Food", "Comfort-Food"]
+    "author": "XaviGT10",
+    "tags": [
+      "Burguer",
+      "Cheese",
+      "Fast-Food",
+      "Comfort-Food"
+    ]
   },
   {
-    "id":"qgiJ1FQ7eV",
-    "name":"Ratatouille",
-    "ingredients":[
+    "id": "qgiJ1FQ7eV",
+    "name": "Ratatouille",
+    "ingredients": [
       {
-        "name":"Eggplants",
+        "name": "Eggplants",
         "amount": "2 u."
       },
       {
-        "name":"roma tomatoes",
+        "name": "roma tomatoes",
         "amount": "6 u."
       },
       {
-        "name":"yellow squashes",
+        "name": "yellow squashes",
         "amount": "2 u."
       },
       {
-        "name":"zucchinis",
+        "name": "zucchinis",
         "amount": "2 u."
       },
       {
-        "name":"olive oil",
+        "name": "olive oil",
         "amount": "2 tbs"
       },
       {
-        "name":"Minced cloves garlic",
+        "name": "Minced cloves garlic",
         "amount": "4 cloves"
       },
       {
-        "name":"Red bell pepper,",
+        "name": "Red bell pepper,",
         "amount": "1u."
       },
       {
-        "name":"Yellow bell pepper,",
+        "name": "Yellow bell pepper,",
         "amount": "1u."
-      },{
-        "name":"Salt",
+      },
+      {
+        "name": "Salt",
         "amount": "1/2tbs"
       }
-
     ],
-    "steps":[
+    "steps": [
       "Preheat the oven for 375˚F (190˚C).",
       "Slice the eggplant, tomatoes, squash, and zucchini into approximately ¹⁄₁₆-inch (1-mm) rounds, then set aside.",
-      "Make the sauce: Heat the olive oil in a 12-inch (30-cm) oven-safe pan over medium-high heat. Sauté the onion, garlic, and bell peppers until soft, about 10 minutes. Season with salt and pepper, then add the crushed tomatoes. Stir until the ingredients are fully incorporated. Remove from heat, then add the basil. Stir once more, then smooth the surface of the sauce with a spatula.",        "Arrange the sliced veggies in alternating patterns, (for example, eggplant, tomato, squash, zucchini) on top of the sauce from the outer edge to the middle of the pan. Season with salt and pepper.",
+      "Make the sauce: Heat the olive oil in a 12-inch (30-cm) oven-safe pan over medium-high heat. Sauté the onion, garlic, and bell peppers until soft, about 10 minutes. Season with salt and pepper, then add the crushed tomatoes. Stir until the ingredients are fully incorporated. Remove from heat, then add the basil. Stir once more, then smooth the surface of the sauce with a spatula.",
+      "Arrange the sliced veggies in alternating patterns, (for example, eggplant, tomato, squash, zucchini) on top of the sauce from the outer edge to the middle of the pan. Season with salt and pepper.",
       "Make the herb seasoning: In a small bowl, mix together the basil, garlic, parsley, thyme, salt, pepper, and olive oil. Spoon the herb seasoning over the vegetables.",
       "Cover the pan with foil and bake for 40 minutes. Uncover, then bake for another 20 minutes, until the vegetables are softened.",
       "Serve while hot as a main dish or side. The ratatouille is also excellent the next day--cover with foil and reheat in a 350˚F (180˚C) oven for 15 minutes, or simply microwave to desired temperature."
     ],
-    "picture_url":"https://img.buzzfeed.com/video-api-prod/assets/eb44570519264864814264f7f0a5e47a/BFV13909_BakedRatatouille-ThumbTextless1080.jpg",
+    "picture_url": "https://img.buzzfeed.com/video-api-prod/assets/eb44570519264864814264f7f0a5e47a/BFV13909_BakedRatatouille-ThumbTextless1080.jpg",
     "difficulty": "easy",
-    "author":"AracelyB",
-    "tags": ["Vegan","Veggies"]
+    "author": "AracelyB",
+    "tags": [
+      "Vegan",
+      "Veggies"
+    ]
   },
   {
-    "id":"IxLG97IonG",
-    "name":"One-Pot Basil Pasta",
-    "ingredients":[
+    "id": "IxLG97IonG",
+    "name": "One-Pot Basil Pasta",
+    "ingredients": [
       {
-        "name":"Onion",
+        "name": "Onion",
         "amount": "1/4"
       },
       {
-        "name":"Garlic",
+        "name": "Garlic",
         "amount": "2 cloves"
       },
       {
-        "name":"Baby plum tomato",
+        "name": "Baby plum tomato",
         "amount": "1/2 cup"
       },
       {
-        "name":"Fresh basil",
+        "name": "Fresh basil",
         "amount": "15g"
       },
       {
-        "name":"Chopped parsley",
+        "name": "Chopped parsley",
         "amount": "15g"
       },
       {
-        "name":"Linguine",
+        "name": "Linguine",
         "amount": "150g"
       },
       {
-        "name":"Salt",
+        "name": "Salt",
         "amount": "1/2tbs"
       },
       {
-        "name":"Crushed chillies",
+        "name": "Crushed chillies",
         "amount": "1 pinch"
       },
       {
-        "name":"Olive oil",
+        "name": "Olive oil",
         "amount": "1 pinch"
       },
       {
-        "name":"Cold water",
+        "name": "Cold water",
         "amount": "3 cups"
       },
       {
-        "name":"Parmesan cheese",
+        "name": "Parmesan cheese",
         "amount": "1 cups"
       }
     ],
-    "steps":["Place all of the ingredients except for the parmesan into a large pot. Cook on a high heat for 2 minutes, submerging the spaghetti into the water once it’s softened enough.",
-      "Lower the temperature to a medium/low heat and toss and stir continuously until the liquid reduces down into a thick sauce. serve with more fresh basil and top with parmesan."],
-    "picture_url":"https://img.buzzfeed.com/video-api-prod/assets/891cdcace9904113b06757bc8678255f/BFV5752_One-PotTomatoAndBasilPasta_Thumbnail_B.jpg",
+    "steps": [
+      "Place all of the ingredients except for the parmesan into a large pot. Cook on a high heat for 2 minutes, submerging the spaghetti into the water once it’s softened enough.",
+      "Lower the temperature to a medium/low heat and toss and stir continuously until the liquid reduces down into a thick sauce. serve with more fresh basil and top with parmesan."
+    ],
+    "picture_url": "https://img.buzzfeed.com/video-api-prod/assets/891cdcace9904113b06757bc8678255f/BFV5752_One-PotTomatoAndBasilPasta_Thumbnail_B.jpg",
     "difficulty": "easy/medium/hard",
-    "author":"AracelyB",
-    "tags": ["Pasta","Cheese","Veggies"]
-  },{
-  "id":"qgiJ1FQ7eV",
-  "name":"Ratatouille",
-  "ingredients":[
-    {
-      "name":"Eggplants",
-      "amount": "2 u."
-    },
-    {
-      "name":"roma tomatoes",
-      "amount": "6 u."
-    },
-    {
-      "name":"yellow squashes",
-      "amount": "2 u."
-    },
-    {
-      "name":"zucchinis",
-      "amount": "2 u."
-    },
-    {
-      "name":"olive oil",
-      "amount": "2 tbs"
-    },
-    {
-      "name":"Minced cloves garlic",
-      "amount": "4 cloves"
-    },
-    {
-      "name":"Red bell pepper,",
-      "amount": "1u."
-    },
-    {
-      "name":"Yellow bell pepper,",
-      "amount": "1u."
-    },{
-      "name":"Salt",
-      "amount": "1/2tbs"
-    }
-
-  ],
-  "steps":[
-    "Preheat the oven for 375˚F (190˚C).",
-    "Slice the eggplant, tomatoes, squash, and zucchini into approximately ¹⁄₁₆-inch (1-mm) rounds, then set aside.",
-    "Make the sauce: Heat the olive oil in a 12-inch (30-cm) oven-safe pan over medium-high heat. Sauté the onion, garlic, and bell peppers until soft, about 10 minutes. Season with salt and pepper, then add the crushed tomatoes. Stir until the ingredients are fully incorporated. Remove from heat, then add the basil. Stir once more, then smooth the surface of the sauce with a spatula.",        "Arrange the sliced veggies in alternating patterns, (for example, eggplant, tomato, squash, zucchini) on top of the sauce from the outer edge to the middle of the pan. Season with salt and pepper.",
-    "Make the herb seasoning: In a small bowl, mix together the basil, garlic, parsley, thyme, salt, pepper, and olive oil. Spoon the herb seasoning over the vegetables.",
-    "Cover the pan with foil and bake for 40 minutes. Uncover, then bake for another 20 minutes, until the vegetables are softened.",
-    "Serve while hot as a main dish or side. The ratatouille is also excellent the next day--cover with foil and reheat in a 350˚F (180˚C) oven for 15 minutes, or simply microwave to desired temperature."
-  ],
-  "picture_url":"https://img.buzzfeed.com/video-api-prod/assets/eb44570519264864814264f7f0a5e47a/BFV13909_BakedRatatouille-ThumbTextless1080.jpg",
-  "difficulty": "easy",
-  "author":"AracelyB",
-  "tags": ["Vegan","Veggies"]
-},
+    "author": "AracelyB",
+    "tags": [
+      "Pasta",
+      "Cheese",
+      "Veggies"
+    ]
+  },
   {
-    "id":"asdnlksandkanskdnandlkanksd",
-    "name":"Cocktail Meatballs",
-    "ingredients":[
+    "id": "qgiJ1FQ7eV",
+    "name": "Ratatouille",
+    "ingredients": [
       {
-        "name":"jar apricot preserves",
+        "name": "Eggplants",
+        "amount": "2 u."
+      },
+      {
+        "name": "roma tomatoes",
+        "amount": "6 u."
+      },
+      {
+        "name": "yellow squashes",
+        "amount": "2 u."
+      },
+      {
+        "name": "zucchinis",
+        "amount": "2 u."
+      },
+      {
+        "name": "olive oil",
+        "amount": "2 tbs"
+      },
+      {
+        "name": "Minced cloves garlic",
+        "amount": "4 cloves"
+      },
+      {
+        "name": "Red bell pepper,",
+        "amount": "1u."
+      },
+      {
+        "name": "Yellow bell pepper,",
+        "amount": "1u."
+      },
+      {
+        "name": "Salt",
+        "amount": "1/2tbs"
+      }
+    ],
+    "steps": [
+      "Preheat the oven for 375˚F (190˚C).",
+      "Slice the eggplant, tomatoes, squash, and zucchini into approximately ¹⁄₁₆-inch (1-mm) rounds, then set aside.",
+      "Make the sauce: Heat the olive oil in a 12-inch (30-cm) oven-safe pan over medium-high heat. Sauté the onion, garlic, and bell peppers until soft, about 10 minutes. Season with salt and pepper, then add the crushed tomatoes. Stir until the ingredients are fully incorporated. Remove from heat, then add the basil. Stir once more, then smooth the surface of the sauce with a spatula.",
+      "Arrange the sliced veggies in alternating patterns, (for example, eggplant, tomato, squash, zucchini) on top of the sauce from the outer edge to the middle of the pan. Season with salt and pepper.",
+      "Make the herb seasoning: In a small bowl, mix together the basil, garlic, parsley, thyme, salt, pepper, and olive oil. Spoon the herb seasoning over the vegetables.",
+      "Cover the pan with foil and bake for 40 minutes. Uncover, then bake for another 20 minutes, until the vegetables are softened.",
+      "Serve while hot as a main dish or side. The ratatouille is also excellent the next day--cover with foil and reheat in a 350˚F (180˚C) oven for 15 minutes, or simply microwave to desired temperature."
+    ],
+    "picture_url": "https://img.buzzfeed.com/video-api-prod/assets/eb44570519264864814264f7f0a5e47a/BFV13909_BakedRatatouille-ThumbTextless1080.jpg",
+    "difficulty": "easy",
+    "author": "AracelyB",
+    "tags": [
+      "Vegan",
+      "Veggies"
+    ]
+  },
+  {
+    "id": "asdnlksandkanskdnandlkanksd",
+    "name": "Cocktail Meatballs",
+    "ingredients": [
+      {
+        "name": "jar apricot preserves",
         "amount": "12 ounce"
       },
       {
-        "name":"bottle hickory-flavored barbecue sauce",
+        "name": "bottle hickory-flavored barbecue sauce",
         "amount": "12 ounce"
       },
       {
-        "name":"Water",
+        "name": "Water",
         "amount": "1/4 cup"
       },
       {
-        "name":"Red pepper",
+        "name": "Red pepper",
         "amount": "1/4"
       },
       {
-        "name":"Crushed red pepper",
+        "name": "Crushed red pepper",
         "amount": "1/2"
       }
     ],
-    "steps":["Place all of the ingredients except for the parmesan into a large pot. Cook on a high heat for 2 minutes, submerging the spaghetti into the water once it’s softened enough.",
-      "Lower the temperature to a medium/low heat and toss and stir continuously until the liquid reduces down into a thick sauce. serve with more fresh basil and top with parmesan."],
-    "picture_url":"https://imagesvc.meredithcorp.io/v3/mm/image?url=https://images.media-allrecipes.com/userphotos/5721023.jpg",
+    "steps": [
+      "Place all of the ingredients except for the parmesan into a large pot. Cook on a high heat for 2 minutes, submerging the spaghetti into the water once it’s softened enough.",
+      "Lower the temperature to a medium/low heat and toss and stir continuously until the liquid reduces down into a thick sauce. serve with more fresh basil and top with parmesan."
+    ],
+    "picture_url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https://images.media-allrecipes.com/userphotos/5721023.jpg",
     "difficulty": "easy/medium/hard",
-    "author":"AracelyB",
-    "tags": ["Meat"]
+    "author": "AracelyB",
+    "tags": [
+      "Meat"
+    ]
+  },
+  {
+    "id": "WRJWEN3SIU",
+    "name": "One-Pot Lemon Garlic Shrimp Pasta",
+    "ingredients": [
+      {
+        "name": "Linguine",
+        "amount": "225g"
+      },
+      {
+        "name": "Olive Oil",
+        "amount": "2 tbs"
+      },
+      {
+        "name": "Butter",
+        "amount": "1 stick"
+      },
+      {
+        "name": "Garlic",
+        "amount": "4 cloves"
+      },
+      {
+        "name": "Red pepper flakes",
+        "amount": "1tbs"
+      },
+      {
+        "name": "Large shrimp",
+        "amount": "570 g"
+      },
+      {
+        "name": "Salt",
+        "amount": "1 pinch"
+      },
+      {
+        "name": "Pepper",
+        "amount": "1 pinch"
+      },
+      {
+        "name": "Oregano",
+        "amount": "1 Tbs"
+      },
+      {
+        "name": "Baby Spinach",
+        "amount": "160 g"
+      },
+      {
+        "name": "Parmesan cheese",
+        "amount": "25 g"
+      },
+      {
+        "name": "Lemon",
+        "amount": "1 tbs"
+      }
+    ],
+    "steps": [
+      "In a large pot, boil water and add pasta. Cook (stirring frequently) until al dente.",
+      "Drain and set pasta aside.",
+      "In the same pan, heat olive oil and 2 tablespoons of butter. Add garlic and crushed red pepper, cook until fragrant.",
+      "Toss in shrimp, salt and pepper to taste, and stir until shrimp start to turn pink, but are not fully cooked.",
+      "Add oregano and spinach, cook until wilted.",
+      "Return cooked pasta to the pot, add remaining butter, parmesan, and parsley. Stir until well mixed and the butter is melted.",
+      "When the shrimp are cooked, add lemon juice, mix once more, then serve while hot."
+    ],
+    "picture_url": "https://img.buzzfeed.com/video-api-prod/assets/9ee2dadcbfcb4095872e6cdbaa24ff14/Thumb_A_FB.jpg",
+    "difficulty": "medium",
+    "author": "AracelyB",
+    "tags": [
+      "Pasta",
+      "Dinner",
+      "Lunch",
+      "Cheese"
+    ]
   }
 ]
