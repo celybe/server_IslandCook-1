@@ -28,7 +28,7 @@ app.use(
 app.use(cors());
 
 // Static directory path
-app.use(express.static(path.join(__dirname, "dist/island_cook")));
+//app.use(express.static(path.join(__dirname, "dist/island_cook")));
 
 // API root
 app.use("/api", bookRoute);
@@ -50,9 +50,9 @@ app.get("/", (req, res) => {
   res.send("invaild endpoint");
 });
 
-app.get("*", (req, res) => {
+/*app.get("*", (req, res) => {
   res.sendFile(path.join(__dirname, "dist/island_cook/index.html"));
-});
+});*/
 
 // error handler
 app.use(function (err, req, res, next) {
