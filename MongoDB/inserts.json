@@ -290,5 +290,72 @@
     "difficulty": "medium",
     "author": "MartaMagui",
     "tags": ["Pasta", "Lunch", "Dinner", "Cheese"]
+  },
+  {
+    "id":"SZWcf3egWQ",
+    "name":"Astonishing homemade Burguer",
+    "ingredients":[
+      {
+        "name":"Minced beef meat",
+        "amount": "1 kg"
+      },
+      {
+        "name":"Onion",
+        "amount": "1"
+      },
+      {
+        "name":"Pepper",
+        "amount": "3 teaspoons"
+      },
+      {
+        "name":"Brown Sugar",
+        "amount": "4 to 5 tablespoons"
+      },
+      {
+        "name":"Balsamyc Modena Vinegar",
+        "amount": "About 5 tablespoons"
+      },
+      {
+        "name":"Olive oil",
+        "amount": "2 tablespoons"
+      },
+      {
+        "name":"Sea Salt",
+        "amount": "1 tablespoon"
+      },
+      {
+        "name":"Eggs",
+        "amount": "1"
+      },
+      {
+        "name":"Thyme",
+        "amount": "1 teaspoon"
+      },
+      {
+        "name":"Dill",
+        "amount": "1 teaspoon"
+      },
+      {
+        "name":"Bacon",
+        "amount": "3 slices per burguer"
+      },
+      {
+        "name":"Goat cheese",
+        "amount": "1 slice per burguer"
+      }
+    ],
+    "steps":["Preheat a non sticking pan with the olive oil while choping the onion.",
+      "Put the onion gently and nicely in the pan and add some salt. Stir until golden brown.",
+      "When brown, put the brown sugar in, cook until poached and then add the vinegar. Let the vinegar evaporate.",
+      "Meanwhile put the meat, the pepper, the salt, the dill and the thyme in a bowl and add the onions when they have lost a bit of heat.",
+      "Put the egg, mix it all together and mount the burguers.",
+      "Prior to this step, clean the pan. Then, without any oil, preheat the pan again and start cooking the burguers. The time depends on how cooked you like the meat.",
+      "Preheat another pan and cook the bacon until golden",
+      "When it is all nicely cooked, place the burguer on the bread and the bacon above it, you can add some tomatoe, cheese or a lettuce leaf. Â¡ENJOY!"
+    ],
+    "picture_url":"https://pin.it/51ZP6Z6",
+    "difficulty": "medium",
+    "author":"XaviGT10",
+    "tags": ["Burguer","Cheese", "Fast-Food", "Comfort-Food"]
   }
 ]
