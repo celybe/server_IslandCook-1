@@ -1,4 +1,3 @@
-
 # Server Island Cook
 
 by Ensaimada Studios Inc.
@@ -19,7 +18,7 @@ by Ensaimada Studios Inc.
   GET /api/recipe
 ```
 
-#### Get recipe
+#### Get recipe by Id
 
 ```http
   GET /api/recipe/${id}
@@ -29,10 +28,20 @@ by Ensaimada Studios Inc.
 | :-------- | :------- | :-------------------------------- |
 | `id`      | `String` | **Required**. Id of recipe to fetch |
 
+#### Get recipe by tag
+
+```http
+  GET /api/recipe/tag/${tags}
+```
+
+| Parameter | Type     | Description                       |
+| :-------- | :------- | :-------------------------------- |
+| `tag`      | `String` |  |
+
 #### Add recipe
 
 ```http
-  GET /api/recipe
+  POST /api/recipe
 ```
 
 | Body      | Type     | Description                       |
@@ -54,14 +63,47 @@ by Ensaimada Studios Inc.
 - [@MartaMAgui](https://github.com/martamagui)
 
 
-![Logo](https://github.com/XaviGT10/server_IslandCook/blob/main/Resources/CompanyLogo.png?raw=true)
+![Logo](https://github.com/XaviGT10/server_IslandCook/blob/main/Resources/logoApp.png?raw=true)
+
+
+## Used By
+
+This project is used by the following companies:
+
+- Ensaimada Studio Inc
+  ![Logo](https://github.com/XaviGT10/server_IslandCook/blob/main/Resources/CompanyLogo.png?raw=true)
 
 
 
-# 🐟Server_IslandCook🐟
-<img src="https://cdn.dribbble.com/users/2417352/screenshots/16024017/media/7ed80e6fb9343313ba401e6188c22a01.jpg?compress=1&resize=1200x900&vertical=top" width=35% align="right">
+## Tech Stack
 
-### 💻Technologies:💻
 
-- MongoDB
-- NodeJS(ExpressJS, BodyParser, Nodemon)
+**Server:** Node, Express, MongoDB, BodyParser, Nodemon
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/XaviGT10/server_IslandCook.git
+```
+
+Go to the project directory
+
+```bash
+  cd server_IslandCook
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
+
