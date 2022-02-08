@@ -28,7 +28,8 @@ recipeRoute.route("/recipe").get((req, res) => {
 
 // Get RecipiesById
 recipeRoute.route("/recipe/tag/:tags").get((req, res) => {
-  Recipe.findById(req.params.tag, (error, data) => {
+  //con "tags:" se declara la parte del schema que quiero buscar equivalencia.
+  Recipe.find({ tags: req.params.tags }, (error, data) => {
     if (error) {
       return next(error);
     } else {
