@@ -70,8 +70,6 @@ by Ensaimada Studios Inc.
 
 This project is used by the following companies:
 
-- Ensaimada Studio Inc
-
 ![Logo](https://github.com/XaviGT10/server_IslandCook/blob/main/Resources/CompanyLogo.png?raw=true)
 
 
