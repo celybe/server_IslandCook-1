@@ -658,5 +658,59 @@
       "Lunch",
       "Cheese"
     ]
+  },
+  {
+    "name": "Tortilla española original",
+    "ingredients": [
+      {
+        "name": "Potatoes",
+        "amount": "4 large potatoes"
+      },
+      {
+        "name": "Eggs",
+        "amount": "6 free-range chicken eggs"
+      },
+      {
+        "name": "Fying oil",
+        "amount": "0'75L"
+      },
+      {
+        "name": "Salt",
+        "amount": "1 pinch"
+      },
+      {
+        "name": "Onion",
+        "amount": "1"
+      },
+      {
+        "name": "Avecrem",
+        "amount": "1"
+      },
+      {
+        "name": "Milk",
+        "amount": "1/2 glass"
+      },
+      {
+        "name": "Olive oil",
+        "amount": "A splash"
+      }
+    ],
+    "steps": [
+      "In a large non sticking pan, preheat the oil while pealing and cutting the potatoes.",
+      "When the oil is nicely heated, put in the potatoe and start pealing and chopping the onion.",
+      "When the potatoe is cooked but not golden, add the chopped onion to the pan.",
+      "Meanwhile, put the eggs, the Avecrem and the milk in a bowl and mix gently.",
+      "When the potatoes and the onion are cooked and golden brown, add them to the egg having previously removed the oil. Put some olive oil in the pan and add it",
+      "Cook until the egg begins to curdle and then put a plate on the top of the pan and turn the omelette over, then put the omelette face down and leave it until cooked, about 2/3 min.",
+      "Thake the omelette out the pan and the only task left to do is enjoy that delicacy"
+    ],
+    "picture_url": "https://pin.it/6VVBLgq",
+    "difficulty": "medium",
+    "author": "XaviGT10",
+    "tags": [
+      "Potatoe",
+      "Dinner",
+      "Lunch"
+    ]
   }
 ]
