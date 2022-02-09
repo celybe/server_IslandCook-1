@@ -1,3 +1,3 @@
 module.exports = {
-    db: 'mongodb://localhost:27017/island_cook'
+    db: 'mongodb+srv://nsaimada:y8jBjuyZkRL7G2N@cluster0.jauoe.mongodb.net/island_cook?retryWrites=true&w=majority'
 };
