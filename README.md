@@ -1,13 +1,16 @@
 # Server Island Cook
 
-by Ensaimada Studios Inc.
+by Nsaimada Studios Inc.
 
 ## Peticiones
 
-- [GET](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
-- [POST](https://github.com/matiassingers/awesome-readme)
-- [DELETE](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-- [PUT](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+- GET
+- GET BY ID
+- GET BY TAG 
+- GET BY DIFFICULTY
+- POST
+- DELETE
+- PUT
 
 
 ## API Reference
@@ -38,6 +41,15 @@ by Ensaimada Studios Inc.
 | :-------- | :------- | :-------------------------------- |
 | `tag`      | `String` |  |
 
+#### Get recipe by difficulty
+
+```http
+  GET /api/recipe/difficulty/${difficulty}
+```
+
+| Parameter | Type     | Description     |
+|:----------| :------- |:----------------|
+| `difficulty`       | `String` | Easy, Medium, Hard |
 #### Add recipe
 
 ```http
@@ -55,6 +67,30 @@ by Ensaimada Studios Inc.
 | `tags`| `[String]` | Tags about the recipe |
 
 
+#### Modify recipe
+
+```http
+  PUT /api/recipe/${id}
+```
+| Body      | Type     | Description                       |
+| :-------- | :------- | :-------------------------------- |
+| `name`    | `String` | Name of the recipe |
+| `ingredients`| `[name:String, amount: String]` | The ingredients of recipe |
+| `steps`      | `[String]` | The steps of recipe |
+| `picture_url`| `String` | The url of the image of the recipe|
+| `difficulty`| `String` | Difficulty of the recipe :**easy**, **medium**, **hard** |
+| `author`| `String` | The author of the recipe|
+| `tags`| `[String]` | Tags about the recipe |
+
+#### Delete recipe
+
+```http
+  DELETE /api/recipe/${id}
+```
+
+| Parameter | Type     | Description                       |
+| :-------- | :------- | :-------------------------------- |
+| `id`      | `String` | **Required**. Id of recipe to fetch |
 
 ## Authors
 
